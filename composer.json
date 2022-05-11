@@ -4,17 +4,17 @@
     "authors": [
         {
             "name": "MOD IT",
-            "email": "modit@myoutdesk.com"
+            "email": "darryl@erentzen.com"
         }
     ],
     "autoload": {
         "psr-4": {
-            "MyOutDesk\\SalesforceRest\\": "src"
+            "DarrylErentzen\\SalesforceRest\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "MyOutDesk\\SalesforceRest\\": "tests"
+            "DarrylErentzen\\SalesforceRest\\": "tests"
         }
     },
     "scripts": {
